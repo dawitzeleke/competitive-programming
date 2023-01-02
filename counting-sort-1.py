@@ -1,5 +1,8 @@
 def countingSort(arr):
-    count= [0]*100
-    for i in arr:
-        count[i]+=1
-    return count
+    n= len(arr)
+    freq_arr=[0]*100
+    for num in arr:
+        freq_arr[num]+=1
+        
+    return freq_arr
+
