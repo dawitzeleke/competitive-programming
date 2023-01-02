@@ -1,12 +1,9 @@
 class Solution(object):
     def smallerNumbersThanCurrent(self, nums):
-        sortednum= sorted(nums)
-        result=[]
-        dic= {}
-        for i in range (len(sortednum)):
-            if sortednum[i] not in dic:
-                dic[sortednum[i]]= i
-        for i in nums:
-            result.append(dic[i])
-            
-        return result    
+        n= len(nums)
+        counter=[0]*n
+        for i in range (n):
+            for j in range(n):
+                if nums[i]> nums[j]:
+                    counter[i]+=1
+        return counter   
