@@ -1,8 +1,17 @@
 class Solution(object):
     def maxOperations(self, nums, k):
-        max_operations=0
-        for i in range (len(nums)):
-            for j in range(i, len(nums)):
-                if nums[i]+nums[j]==k:
-                    max_operations+=1
-        return max_operations
+        nums.sort()
+        counter = 0
+        l= 0 
+        r = len(nums)-1
+        while l<r:
+            if nums[l]+ nums[r] == k:
+                counter += 1
+                l+= 1
+                r-= 1
+            elif  nums[l]+ nums[r] < k:
+                l+=1
+            else:
+                r-=1
+
+        return counter
