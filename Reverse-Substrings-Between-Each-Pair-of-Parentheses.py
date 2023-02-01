@@ -1,16 +1,17 @@
-class Solution:
-    def reverseParentheses(self, s: str) -> str:
+class Solution(object):
+    def reverseParentheses(self, s):
         stack = []
-        for i in range(len(s)):
-            if (s[i] == '('):
-                stack.append(i)
-            elif (s[i] == ')'):
-                temp = s[stack[-1]:i + 1]
-                s = s[:stack[-1]] + temp[::-1] + s[i + 1:]
-                del stack[-1]
- 
-        result = ""
-        for i in range(len(s)):
-            if (s[i] != ')' and s[i] != '('):
-                result += (s[i])
-        return result
+
+        for char in s:
+            if char == "(":
+                stack.append(char)
+            elif char == ")":
+                sub_s = []
+                while stack[-1] != "(":
+                    sub_s.append(stack.pop())
+                stack.pop()
+                stack.extend(sub_s)
+            else: 
+                stack.append(char)
+        
+        return "".join(stack)
