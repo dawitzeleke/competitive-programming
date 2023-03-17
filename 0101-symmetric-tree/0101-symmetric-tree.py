@@ -5,11 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def helper(self, leftroot, rightroot):
+        if not leftroot and not rightroot:
+            return True
+        if (leftroot and not rightroot) or (rightroot and not leftroot):
+            return False
+        if leftroot and rightroot:
+            return leftroot.val == rightroot.val and self.helper(leftroot.left, rightroot.right) and self.helper(leftroot.right, rightroot.left)
+        
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if not root:
             return True
-        return self.issymetric(root.left, root.right)
-    def issymetric(self,leftroot , rightroot):
-        if rightroot and leftroot:
-            return rightroot.val == leftroot.val and self.issymetric(leftroot.left, rightroot.right) and self.issymetric(leftroot.right, rightroot.left)
-        return leftroot == rightroot
+        answer = self.helper(root.left, root.right)
+        return answer 
