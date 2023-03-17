@@ -5,12 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def helper(self, node, val):
+        if not node:
+            return
+        if node.val == val:
+            return node
+        if node.val > val:
+            return self.helper(node.left, val)
+        if node.val < val:
+            return self.helper(node.right, val)
+
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
-        while root:
-            if root.val == val:
-                return root
-            elif root.val > val:
-                root = root.left
-            elif root.val < val:
-                root = root.right
-        return None
+        answer = self.helper(root, val)
+        return answer
