@@ -1,17 +1,20 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        n=len(fruits)
-        i=j=m=0
-        x,y=fruits[0],-1
-        while j<n:
-            if fruits[j]!=x and y==-1:
-                y=fruits[j]
-            elif fruits[j]!=x and fruits[j]!=y:
-                x,y=fruits[j-1],fruits[j]
-                m=max(m,j-i)
-                i=j-1
-                while fruits[i-1]==x:
-                    i-=1
-            j+=1
-        m=max(m,j-i)
-        return m 
+        d = {}
+        left = 0 
+        right = 0
+        max_fruit = 0
+        while right < len(fruits):
+            if fruits[right] not in d:
+                d[fruits[right]] = 1
+            else:
+                d[fruits[right]] += 1
+            
+            while len(d) > 2:
+                d[fruits[left]] -= 1
+                if d[fruits[left]] == 0:
+                    del d[fruits[left]]
+                left += 1
+            max_fruit = max(max_fruit, right - left + 1)
+            right += 1
+        return max_fruit
