@@ -9,7 +9,12 @@ class Solution:
     def helper(self, node, level, index):
         if not node:
             return
-        self.d[level].append(index)
+        
+        if len(self.d[level]) < 2:
+            self.d[level].append(index)
+        else:
+            self.d[level][-1] = index
+
         self.helper(node.left, level + 1, 2*index)
         self.helper(node.right, level + 1, 2*index + 1)
         
