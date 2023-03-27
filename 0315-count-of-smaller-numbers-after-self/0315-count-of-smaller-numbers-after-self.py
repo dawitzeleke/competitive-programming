@@ -1,11 +1,10 @@
 class Solution:
     def countSmaller(self, nums: List[int]) -> List[int]:
         answer = [0] * len(nums)
-        helper_dictionary = {}
+       
         nums = [(nums[i],i) for i in range(len(nums))]
         
-        for num in nums:
-            helper_dictionary[num] = 0
+        
         def mergeSort(left, right, arr):
             if left == right:
                 return [arr[left]]
