@@ -36,7 +36,6 @@ class Solution:
         while first != second:
             first = first.next
             second = second.next
-        print(first.val)
         
         return second
        
