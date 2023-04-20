@@ -9,7 +9,7 @@ class Solution:
                 
                 res.append(curr[:-1])
                 return 
-            print(curr)
+            
             if dots > 4:
                 return
             for j in range(index , min(index + 3, len(s))):
