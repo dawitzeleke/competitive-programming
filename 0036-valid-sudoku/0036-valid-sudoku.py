@@ -7,25 +7,25 @@ class Solution:
                 if board[i][j] != '.':
                     c = board[i][j]
 
-                    # Row check
-                    key = f'{c} in row {i}' # same as -> str(c) + ' in row ' + str(i)
+                   
+                    key = f'{c} in row {i}' 
 
                     if key in s:
                         return False
                     else:
                         s.add(key)
 
-                    # Column check
-                    key = f'{c} in col {j}' # same as -> str(c) + ' in col ' + str(j)
+
+                    key = f'{c} in col {j}' 
 
                     if key in s:
                         return False
                     else:
                         s.add(key)
 
-                    # Box check
+                   
                     boxIndex = (i // 3) * 3 + (j // 3)
-                    key = f'{c} in box {boxIndex}' # same as -> str(c) + ' in box ' + str(boxIndex)
+                    key = f'{c} in box {boxIndex}' 
 
                     if key in s:
                         return False
