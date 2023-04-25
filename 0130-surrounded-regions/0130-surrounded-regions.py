@@ -8,7 +8,7 @@ class Solution:
         
         def dfs(r, c):
             if r < 0 or c < 0 or r == row or c == col or board[r][c] != "O":
-                return True
+                return 
             
             dirc = [[1,0], [0,1], [-1,0], [0,-1]] 
             if board[r][c] == "O":
