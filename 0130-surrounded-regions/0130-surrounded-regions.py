@@ -4,13 +4,12 @@ class Solution:
         Do not return anything, modify board in-place instead.
         """
         row, col  = len(board), len(board[0])
-        visited = set()
+        
         
         def dfs(r, c):
-            if r < 0 or c < 0 or r == row or c == col or board[r][c] != "O" or (r,c) in visited:
+            if r < 0 or c < 0 or r == row or c == col or board[r][c] != "O":
                 return True
             
-            visited.add((r,c))
             dirc = [[1,0], [0,1], [-1,0], [0,-1]] 
             if board[r][c] == "O":
                 board[r][c] = "T"
