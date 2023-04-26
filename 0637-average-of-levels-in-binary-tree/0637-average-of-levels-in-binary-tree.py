@@ -4,21 +4,26 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+import collections
 class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
-        level = defaultdict(list)
-        def helper(node, lev):
-            if not node:
-                return 
+        
+        queue = collections.deque()
+        visited = set()
+        answer = []
+        queue.append(root)
+        while queue:
             
-            level[lev].append(node.val)
-            helper(node.left, lev + 1)
-            helper(node.right, lev + 1)
-        helper(root, 0)
-        res = []
-        for k, v in level.items():
-            if v:
-                temp = sum(v)/ len(v)
-                res.append(temp)
+            size = len(queue)
+            total = 0
+            for _ in range(size):
+                temp = queue.popleft()
+                total += temp.val
                 
-        return res
+                if temp.left:
+                    queue.append(temp.left)
+                if temp.right:
+                    queue.append(temp.right)
+            answer.append(total / size)
+        return answer
+             
