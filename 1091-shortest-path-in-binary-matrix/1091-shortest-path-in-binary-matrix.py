@@ -9,14 +9,13 @@ class Solution:
         queue = deque()
         visited = set()
         direction = [[1,0], [0,-1], [0,1], [-1,0], [1,1], [-1,-1], [1,-1], [-1,1]]
-        min_distance = float("inf")
+        
         queue.append((0,0, 1))
         visited.add((0,0))
         while queue:
             temp = queue.popleft()
             if temp[0] == row - 1 and temp[1] == col - 1:
-                min_distance = min(min_distance, temp[2])
-                break
+                return temp[2] 
                 
             for dr, dc in direction:
                 r = temp[0] + dr
@@ -25,5 +24,5 @@ class Solution:
                     visited.add((r,c))
                     queue.append((r, c, temp[2] + 1))
                     
-        return min_distance if min_distance != float("inf") else -1 
+        return -1
         
