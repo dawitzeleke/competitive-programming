@@ -13,17 +13,18 @@ class Solution:
 
         while queue:
             temp = queue.popleft()
-            x = temp[0]
-            y = temp[1]
-            d = temp[2]
+            current_row = temp[0]
+            current_col = temp[1]
+            distance = temp[2]
             for dr, dc in direction:
                 
-                r = x + dr
-                c = y + dc
-                if 0 <= r <= row - 1 and 0 <= c <= col - 1  and (r, c) not in visited:
-                    visited.add((r,c))
-                    queue.append((r, c, d + 1))
-                    mat[r][c] = d + 1
+                new_row = current_row + dr
+                new_col = current_col + dc
+                
+                if 0 <= new_row <= row - 1 and 0 <= new_col <= col - 1  and (new_row, new_col) not in visited:
+                    visited.add((new_row, new_col))
+                    queue.append((new_row, new_col, distance + 1))
+                    mat[new_row][new_col] = distance + 1
 
         
         return mat
