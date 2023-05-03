@@ -1,20 +1,36 @@
 class Solution:
-    def quicksort(self, arr, start, end):
+    def heapify(self,arr, n, i):
+        largest = i
+        left = 2 * i + 1
+        right = 2 * i + 2
+        if left < n and arr[left] > arr[i]:
+            largest = left
+        if right < n and arr[right] > arr[largest]:
+            largest = right
+            
+        if largest != i:
+            arr[largest], arr[i] = arr[i], arr[largest]
+            self.heapify(arr, n, largest)
+       
+    
 
-        if end  - start <= 0:
-            return
-        pivot = arr[start]
-        write = start + 1
-        for read in range(start + 1, end + 1):
-            if arr[read] <= arr[start]:
-                arr[read], arr[write] = arr[write], arr[read]
-                write += 1
-        arr[start], arr[write - 1] = arr[write - 1], arr[start]
-        if len(arr) - self.k < write - 1:
-            self.quicksort(arr, start, write - 2)
-        else:
-            self.quicksort(arr, write , end)
+    def buildHeap(self,arr,n):
+        start = (n // 2) - 1
+        
+        for i in range(start, -1, -1):
+            self.heapify(arr, n, i)
+   
+    
+        
+    def HeapSort(self, arr, n):
+        self.buildHeap(arr, n)
+        
+        for i in range(n - 1, 0, -1):
+            arr[0], arr[i] = arr[i], arr[0]
+          
+            self.heapify(arr, i, 0)
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        self.k = k
-        self.quicksort(nums, 0, len(nums) - 1)
+        self.HeapSort(nums, len(nums))
+    
         return nums[len(nums) - k]
+        
