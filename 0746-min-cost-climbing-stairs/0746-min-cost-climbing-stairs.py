@@ -4,9 +4,7 @@ class Solution:
         def dp(n):
             if n >= len(cost):
                 return 0
-            if n == len(cost) - 1:
-                return cost[-1]
-            
+           
             if not memo[n]:
                 memo[n] = min( dp(n + 1) + cost[n], dp(n + 2) + cost[n])
                 
