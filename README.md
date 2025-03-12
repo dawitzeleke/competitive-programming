@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dawitzeleke/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
