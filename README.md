@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
