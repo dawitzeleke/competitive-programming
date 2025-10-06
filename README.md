@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dawitzeleke/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
