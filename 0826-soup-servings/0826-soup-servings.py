@@ -1,13 +1,14 @@
 class Solution:
     def soupServings(self, n: int) -> float:
-
+        if n >= 4450:
+            return 1
         memo = defaultdict(int)
 
         def dp(a, b):
             if a <= 0 and b <= 0:
                 return 0.5
 
-            if a <= 0:
+            if a <= 0 :
                 return 1
 
             if b <= 0:
