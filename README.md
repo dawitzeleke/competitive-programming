@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
+| [1185-find-in-mountain-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1185-find-in-mountain-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawitzeleke/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
