@@ -1,16 +1,17 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        
-        self.answer = []
-        self.backtracking(nums, [])
-        return self.answer
-    def backtracking(self, nums, curr):
-        if len(nums) == 0:
-            self.answer.append(curr)
-            return
+        length = len(nums)
+        answer = []
+        def backtracking(index, curr_subset):
+            if index == length:
+                answer.append(curr_subset[:])
+                return
 
-        
-        self.backtracking(nums[1:], curr + [nums[0]])
+            curr_subset.append(nums[index])
+            backtracking(index + 1, curr_subset)
+            curr_subset.pop()
+            backtracking(index + 1, curr_subset)
 
-        self.backtracking(nums[1:], curr)
-        
+        backtracking(0, [])
+
+        return answer
