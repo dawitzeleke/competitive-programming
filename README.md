@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/dawitzeleke/competitive-programming/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dawitzeleke/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/dawitzeleke/competitive-programming/tree/master/0130-surrounded-regions) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dawitzeleke/competitive-programming/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/dawitzeleke/competitive-programming/tree/master/0078-subsets) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dawitzeleke/competitive-programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
