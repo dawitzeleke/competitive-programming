@@ -1,13 +1,16 @@
 class Solution:
-    def helper(self, nums, index, curr):
-        if index == len(nums):
-            self.res.append(curr[:])
-            return
-        self.helper(nums, index + 1, curr)
-        curr.append(nums[index])
-        self.helper(nums, index + 1, curr)
-        curr.pop()
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        self.res = []
-        self.helper(nums, 0, [])
-        return self.res
+        
+        self.answer = []
+        self.backtracking(nums, [])
+        return self.answer
+    def backtracking(self, nums, curr):
+        if len(nums) == 0:
+            self.answer.append(curr)
+            return
+
+        
+        self.backtracking(nums[1:], curr + [nums[0]])
+
+        self.backtracking(nums[1:], curr)
+        
