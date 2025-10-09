@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [1185-find-in-mountain-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/dawitzeleke/competitive-programming/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
