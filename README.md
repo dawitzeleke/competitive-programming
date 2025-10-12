@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/dawitzeleke/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/dawitzeleke/competitive-programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
@@ -247,10 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/dawitzeleke/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/dawitzeleke/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0257-binary-tree-paths) |
 ## Heap (Priority Queue)
 |  |
