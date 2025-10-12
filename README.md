@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dawitzeleke/competitive-programming/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1970-sorting-the-sentence](https://github.com/dawitzeleke/competitive-programming/tree/master/1970-sorting-the-sentence) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/dawitzeleke/competitive-programming/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [1095-two-city-scheduling](https://github.com/dawitzeleke/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1970-sorting-the-sentence](https://github.com/dawitzeleke/competitive-programming/tree/master/1970-sorting-the-sentence) |
@@ -231,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0257-binary-tree-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
