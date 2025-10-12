@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dawitzeleke/competitive-programming/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dawitzeleke/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/dawitzeleke/competitive-programming/tree/master/0130-surrounded-regions) |
+| [0304-range-sum-query-2d-immutable](https://github.com/dawitzeleke/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/dawitzeleke/competitive-programming/tree/master/0130-surrounded-regions) |
+| [0304-range-sum-query-2d-immutable](https://github.com/dawitzeleke/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/dawitzeleke/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawitzeleke/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dawitzeleke/competitive-programming/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/dawitzeleke/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
