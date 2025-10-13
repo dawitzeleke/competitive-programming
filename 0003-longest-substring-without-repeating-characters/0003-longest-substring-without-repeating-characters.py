@@ -1,19 +1,21 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        charcount = {}
-        maxlen = 0
+        
         left = 0
+        max_len = float("-inf")
+        char_count = defaultdict(int)
 
         for right in range(len(s)):
 
-            if s[right] not in charcount:
-                charcount[s[right]] = 1
-            else:
-                charcount[s[right]] += 1
+            char_count[s[right]] += 1
 
-            while charcount[s[right]] > 1:
-                charcount[s[left]] -= 1
+
+            while char_count[s[right]] > 1:
+                char_count[s[left]] -= 1
                 left += 1
-            maxlen = max(maxlen, right - left + 1)
 
-        return maxlen
+            max_len = max(max_len, right - left + 1)
+
+        return max_len if max_len != float("-inf") else 0
+
+            
