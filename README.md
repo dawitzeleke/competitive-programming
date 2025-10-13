@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dawitzeleke/competitive-programming/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dawitzeleke/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/dawitzeleke/competitive-programming/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dawitzeleke/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/dawitzeleke/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/dawitzeleke/competitive-programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 ## Stack
 |  |
