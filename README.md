@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dawitzeleke/competitive-programming/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawitzeleke/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/dawitzeleke/competitive-programming/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dawitzeleke/competitive-programming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/dawitzeleke/competitive-programming/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dawitzeleke/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dawitzeleke/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dawitzeleke/competitive-programming/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/dawitzeleke/competitive-programming/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawitzeleke/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dawitzeleke/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dawitzeleke/competitive-programming/tree/master/0328-odd-even-linked-list) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dawitzeleke/competitive-programming/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/dawitzeleke/competitive-programming/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
