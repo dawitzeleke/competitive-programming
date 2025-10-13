@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/dawitzeleke/competitive-programming/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/dawitzeleke/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/dawitzeleke/competitive-programming/tree/master/1582-design-browser-history) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
