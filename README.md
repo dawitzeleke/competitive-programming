@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1970-sorting-the-sentence](https://github.com/dawitzeleke/competitive-programming/tree/master/1970-sorting-the-sentence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dawitzeleke/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/dawitzeleke/competitive-programming/tree/master/1582-design-browser-history) |
 ## Probability and Statistics
 |  |
