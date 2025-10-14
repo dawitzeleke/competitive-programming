@@ -1,58 +1,64 @@
-class DoublyLinkedList:
-    def __init__(self, key, value, next = None, prev = None):
+class ListNode:
+    def __init__(self, key= -1, value= -1, prev= None, next= None):
         self.key = key
         self.value = value
-        self.next = next
         self.prev = prev
+        self.next = next
+
+
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.cache = {}
-        self.capacity = capacity
-        self.MRU = DoublyLinkedList(-1, -1)
-        self.LRU = DoublyLinkedList(-1, -1)
+
+        self.LRUCache = defaultdict(ListNode)
+        self.size = capacity
+        self.MRU = ListNode()
+        self.LRU = ListNode()
+
         self.MRU.next = self.LRU
         self.LRU.prev = self.MRU
-    
+        print(self.LRUCache)
+
     def remove(self, node):
-        prevNode = node.prev
-        nextNode = node.next
-        prevNode.next = nextNode
-        nextNode.prev = prevNode
+        next_node = node.next
+        prev_node = node.prev
+
+        prev_node.next = next_node
+        next_node.prev = prev_node
+
     def addToFront(self, node):
-        MRUnext = self.MRU.next
+        MRU_next = self.MRU.next
         self.MRU.next = node
         node.prev = self.MRU
-        node.next = MRUnext
-        MRUnext.prev = node
+        node.next = MRU_next
+        MRU_next.prev = node
 
     def get(self, key: int) -> int:
-        if key in self.cache:
-            currNode = self.cache[key]
-            self.remove(currNode)
-            self.addToFront(currNode)
-            return currNode.value
-        else:
+        if key not in self.LRUCache:
             return -1
+        curr_node = self.LRUCache[key]
+        self.remove(curr_node)
+        self.addToFront(curr_node)
+        return curr_node.value
+
+        
 
     def put(self, key: int, value: int) -> None:
 
-        if key in self.cache:
-            self.cache[key].value = value
-            self.remove(self.cache[key])
-            self.addToFront(self.cache[key])
-            
+        if key in self.LRUCache:
+            curr_node = self.LRUCache[key]
+            curr_node.value = value
+            self.remove(curr_node)
+            self.addToFront(curr_node)
+
         else:
-            if len(self.cache) == self.capacity:
-                nodeToDelete = self.LRU.prev
-                self.remove(nodeToDelete)
-                del self.cache[nodeToDelete.key]
-            
-            node = DoublyLinkedList(key, value)
-            self.cache[key] = node
+            if len(self.LRUCache) == self.size:
+                LRU = self.LRU.prev
+                self.remove(LRU)
+                del self.LRUCache[LRU.key]
+            node = ListNode(key, value)
             self.addToFront(node)
-
-
+            self.LRUCache[key] = node
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
