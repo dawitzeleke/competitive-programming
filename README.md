@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawitzeleke/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dawitzeleke/competitive-programming/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/dawitzeleke/competitive-programming/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dawitzeleke/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dawitzeleke/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dawitzeleke/competitive-programming/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawitzeleke/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/dawitzeleke/competitive-programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
