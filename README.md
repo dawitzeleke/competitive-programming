@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/dawitzeleke/competitive-programming/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/dawitzeleke/competitive-programming/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dawitzeleke/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dawitzeleke/competitive-programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dawitzeleke/competitive-programming/tree/master/0078-subsets) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dawitzeleke/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/dawitzeleke/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dawitzeleke/competitive-programming/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/dawitzeleke/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dawitzeleke/competitive-programming/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawitzeleke/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0344-reverse-string) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dawitzeleke/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/dawitzeleke/competitive-programming/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dawitzeleke/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
