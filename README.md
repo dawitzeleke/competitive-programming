@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawitzeleke/competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawitzeleke/competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawitzeleke/competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
