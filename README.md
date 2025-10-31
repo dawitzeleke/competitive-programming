@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawitzeleke/competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dawitzeleke/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dawitzeleke/competitive-programming/tree/master/0067-add-binary) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
