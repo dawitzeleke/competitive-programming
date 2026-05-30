@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dawitzeleke/competitive-programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2540-minimum-common-value](https://github.com/dawitzeleke/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawitzeleke/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawitzeleke/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/dawitzeleke/competitive-programming/tree/master/1500-count-largest-group) |
 | [1512-design-underground-system](https://github.com/dawitzeleke/competitive-programming/tree/master/1512-design-underground-system) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2540-minimum-common-value](https://github.com/dawitzeleke/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawitzeleke/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawitzeleke/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2540-minimum-common-value](https://github.com/dawitzeleke/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawitzeleke/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/dawitzeleke/competitive-programming/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2540-minimum-common-value](https://github.com/dawitzeleke/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
