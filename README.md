@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawitzeleke/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/dawitzeleke/competitive-programming/tree/master/1582-design-browser-history) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dawitzeleke/competitive-programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
