@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3161-block-placement-queries](https://github.com/dawitzeleke/competitive-programming/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/dawitzeleke/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dawitzeleke/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
 |  |
 | ------- |
