@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
