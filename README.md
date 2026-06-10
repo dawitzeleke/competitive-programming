@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dawitzeleke/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2833-furthest-point-from-origin](https://github.com/dawitzeleke/competitive-programming/tree/master/2833-furthest-point-from-origin) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
