@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/dawitzeleke/competitive-programming/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/dawitzeleke/competitive-programming/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/dawitzeleke/competitive-programming/tree/master/3838-weighted-word-mapping) |
 ## Union Find
 |  |
 | ------- |
