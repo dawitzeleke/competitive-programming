@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1732-find-the-highest-altitude](https://github.com/dawitzeleke/competitive-programming/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dawitzeleke/competitive-programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/dawitzeleke/competitive-programming/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/dawitzeleke/competitive-programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dawitzeleke/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/dawitzeleke/competitive-programming/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1500-count-largest-group](https://github.com/dawitzeleke/competitive-programming/tree/master/1500-count-largest-group) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dawitzeleke/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/dawitzeleke/competitive-programming/tree/master/1840-maximum-building-height) |
 | [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/dawitzeleke/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1840-maximum-building-height](https://github.com/dawitzeleke/competitive-programming/tree/master/1840-maximum-building-height) |
 | [1970-sorting-the-sentence](https://github.com/dawitzeleke/competitive-programming/tree/master/1970-sorting-the-sentence) |
 | [2126-destroying-asteroids](https://github.com/dawitzeleke/competitive-programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dawitzeleke/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
