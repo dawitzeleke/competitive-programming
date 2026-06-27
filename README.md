@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/dawitzeleke/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dawitzeleke/competitive-programming/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3161-block-placement-queries](https://github.com/dawitzeleke/competitive-programming/tree/master/3161-block-placement-queries) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/dawitzeleke/competitive-programming/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawitzeleke/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawitzeleke/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dawitzeleke/competitive-programming/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dawitzeleke/competitive-programming/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
