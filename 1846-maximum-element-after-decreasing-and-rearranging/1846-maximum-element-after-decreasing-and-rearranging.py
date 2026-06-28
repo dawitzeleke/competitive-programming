@@ -7,6 +7,5 @@ class Solution:
                 continue
             arr[i] = arr[i - 1] + 1
        
-        return arr[-1] 
-    
-    
+        return arr[-1]  
+        
