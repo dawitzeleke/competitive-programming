@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawitzeleke/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2784-check-if-array-is-good](https://github.com/dawitzeleke/competitive-programming/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawitzeleke/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawitzeleke/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/dawitzeleke/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawitzeleke/competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3161-block-placement-queries](https://github.com/dawitzeleke/competitive-programming/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dawitzeleke/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
@@ -562,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/dawitzeleke/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
