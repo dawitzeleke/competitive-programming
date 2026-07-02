@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/dawitzeleke/competitive-programming/tree/master/3161-block-placement-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dawitzeleke/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dawitzeleke/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
@@ -571,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
