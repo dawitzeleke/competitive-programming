@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/dawitzeleke/competitive-programming/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/dawitzeleke/competitive-programming/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
 |  |
 | ------- |
