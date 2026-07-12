@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/dawitzeleke/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1441-build-an-array-with-stack-operations) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/dawitzeleke/competitive-programming/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/dawitzeleke/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/dawitzeleke/competitive-programming/tree/master/0645-set-mismatch) |
 | [1095-two-city-scheduling](https://github.com/dawitzeleke/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/dawitzeleke/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
