@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawitzeleke/competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/dawitzeleke/competitive-programming/tree/master/3379-transformed-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawitzeleke/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawitzeleke/competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawitzeleke/competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dawitzeleke/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawitzeleke/competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/dawitzeleke/competitive-programming/tree/master/3620-network-recovery-pathways) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawitzeleke/competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting Sort
 |  |
