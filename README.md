@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1095-two-city-scheduling](https://github.com/dawitzeleke/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1185-find-in-mountain-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1185-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dawitzeleke/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dawitzeleke/competitive-programming/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dawitzeleke/competitive-programming/tree/master/2161-partition-array-according-to-given-pivot) |
