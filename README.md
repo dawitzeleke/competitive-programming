@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3614-process-string-with-special-operations-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/dawitzeleke/competitive-programming/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawitzeleke/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dawitzeleke/competitive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/dawitzeleke/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
