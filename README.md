@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dawitzeleke/competitive-programming/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dawitzeleke/competitive-programming/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dawitzeleke/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawitzeleke/competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dawitzeleke/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/dawitzeleke/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dawitzeleke/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dawitzeleke/competitive-programming/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/dawitzeleke/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
@@ -693,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dawitzeleke/competitive-programming/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
