@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/dawitzeleke/competitive-programming/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1095-two-city-scheduling](https://github.com/dawitzeleke/competitive-programming/tree/master/1095-two-city-scheduling) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dawitzeleke/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dawitzeleke/competitive-programming/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1500-count-largest-group](https://github.com/dawitzeleke/competitive-programming/tree/master/1500-count-largest-group) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dawitzeleke/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -701,4 +704,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
