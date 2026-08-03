@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1470-shuffle-the-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dawitzeleke/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dawitzeleke/competitive-programming/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1500-count-largest-group](https://github.com/dawitzeleke/competitive-programming/tree/master/1500-count-largest-group) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dawitzeleke/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/dawitzeleke/competitive-programming/tree/master/1840-maximum-building-height) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dawitzeleke/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawitzeleke/competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -705,4 +708,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
