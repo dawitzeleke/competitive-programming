@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/dawitzeleke/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawitzeleke/competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dawitzeleke/competitive-programming/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/dawitzeleke/competitive-programming/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawitzeleke/competitive-programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawitzeleke/competitive-programming/tree/master/2915-count-of-interesting-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dawitzeleke/competitive-programming/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dawitzeleke/competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
