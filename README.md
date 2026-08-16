@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dawitzeleke/competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/dawitzeleke/competitive-programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dawitzeleke/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dawitzeleke/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/dawitzeleke/competitive-programming/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dawitzeleke/competitive-programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/dawitzeleke/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/dawitzeleke/competitive-programming/tree/master/2833-furthest-point-from-origin) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/dawitzeleke/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/dawitzeleke/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dawitzeleke/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/dawitzeleke/competitive-programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dawitzeleke/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -748,22 +752,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
