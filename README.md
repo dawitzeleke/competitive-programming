@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawitzeleke/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1563-stone-game-v](https://github.com/dawitzeleke/competitive-programming/tree/master/1563-stone-game-v) |
 | [1582-design-browser-history](https://github.com/dawitzeleke/competitive-programming/tree/master/1582-design-browser-history) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1732-find-the-highest-altitude](https://github.com/dawitzeleke/competitive-programming/tree/master/1732-find-the-highest-altitude) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1500-count-largest-group](https://github.com/dawitzeleke/competitive-programming/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/dawitzeleke/competitive-programming/tree/master/1563-stone-game-v) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dawitzeleke/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/dawitzeleke/competitive-programming/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/dawitzeleke/competitive-programming/tree/master/1563-stone-game-v) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dawitzeleke/competitive-programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dawitzeleke/competitive-programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawitzeleke/competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/dawitzeleke/competitive-programming/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
