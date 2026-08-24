@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/dawitzeleke/competitive-programming/tree/master/1563-stone-game-v) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dawitzeleke/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/dawitzeleke/competitive-programming/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/dawitzeleke/competitive-programming/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/dawitzeleke/competitive-programming/tree/master/2050-count-good-numbers) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1512-design-underground-system](https://github.com/dawitzeleke/competitive-programming/tree/master/1512-design-underground-system) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1927-sum-game](https://github.com/dawitzeleke/competitive-programming/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dawitzeleke/competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/dawitzeleke/competitive-programming/tree/master/1970-sorting-the-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dawitzeleke/competitive-programming/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/dawitzeleke/competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/dawitzeleke/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dawitzeleke/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/dawitzeleke/competitive-programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/dawitzeleke/competitive-programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dawitzeleke/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dawitzeleke/competitive-programming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dawitzeleke/competitive-programming/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/dawitzeleke/competitive-programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
