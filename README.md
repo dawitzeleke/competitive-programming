@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dawitzeleke/competitive-programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dawitzeleke/competitive-programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dawitzeleke/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawitzeleke/competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dawitzeleke/competitive-programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dawitzeleke/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3739-count-subarrays-with-majority-element-ii) |
