@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/dawitzeleke/competitive-programming/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/dawitzeleke/competitive-programming/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/dawitzeleke/competitive-programming/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/dawitzeleke/competitive-programming/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/dawitzeleke/competitive-programming/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0344-reverse-string) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dawitzeleke/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/dawitzeleke/competitive-programming/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/dawitzeleke/competitive-programming/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dawitzeleke/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dawitzeleke/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/dawitzeleke/competitive-programming/tree/master/0322-coin-change) |
