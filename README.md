@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/dawitzeleke/competitive-programming/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
+| [0940-distinct-subsequences-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/dawitzeleke/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dawitzeleke/competitive-programming/tree/master/0486-predict-the-winner) |
 | [0826-soup-servings](https://github.com/dawitzeleke/competitive-programming/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/dawitzeleke/competitive-programming/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1140-stone-game-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
