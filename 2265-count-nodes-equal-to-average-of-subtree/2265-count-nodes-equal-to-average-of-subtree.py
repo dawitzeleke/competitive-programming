@@ -5,31 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-   
-    count = 0
-    countNode = 0
     def averageOfSubtree(self, root: Optional[TreeNode]) -> int:
-        
-        def summ(root):
-            if not root:
-                return 0
-            self.count += 1
-            left_sum= root.val + summ(root.left)
-            right_sum = summ(root.right)
-            return left_sum + right_sum 
-        
-       
-        def checkNode(node):
-            if node == None:
-                return 
-            total = summ(node)
-            average = floor(total/self.count)
-            if average == node.val:
-                self.countNode += 1
-            self.count = 0
-            checkNode(node.right)
-            checkNode(node.left)
-        checkNode(root)
-        return self.countNode
-            
-       
+        self.ans = 0
+        def dfs(node):
+            if not node:
+                return 0, 0
+            left_sum, left_cnt = dfs(node.left)
+            right_sum, right_cnt = dfs(node.right)
+            total_sum = left_sum + right_sum + node.val
+            total_cnt = left_cnt + right_cnt + 1
+            if total_sum // total_cnt == node.val:
+                self.ans += 1
+            return total_sum, total_cnt
+        dfs(root)
+        return self.ans
