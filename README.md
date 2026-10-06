@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/dawitzeleke/competitive-programming/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/dawitzeleke/competitive-programming/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dawitzeleke/competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/dawitzeleke/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dawitzeleke/competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1095-two-city-scheduling](https://github.com/dawitzeleke/competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/dawitzeleke/competitive-programming/tree/master/1386-cinema-seat-allocation) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dawitzeleke/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/dawitzeleke/competitive-programming/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dawitzeleke/competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1441-build-an-array-with-stack-operations) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dawitzeleke/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dawitzeleke/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/dawitzeleke/competitive-programming/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dawitzeleke/competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dawitzeleke/competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dawitzeleke/competitive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
