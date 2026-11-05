@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dawitzeleke/competitive-programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/dawitzeleke/competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/dawitzeleke/competitive-programming/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1441-build-an-array-with-stack-operations) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dawitzeleke/competitive-programming/tree/master/0162-find-peak-element) |
 | [1185-find-in-mountain-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawitzeleke/competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dawitzeleke/competitive-programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dawitzeleke/competitive-programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dawitzeleke/competitive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dawitzeleke/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dawitzeleke/competitive-programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dawitzeleke/competitive-programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/dawitzeleke/competitive-programming/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/dawitzeleke/competitive-programming/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/dawitzeleke/competitive-programming/tree/master/0768-partition-labels) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dawitzeleke/competitive-programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawitzeleke/competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dawitzeleke/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dawitzeleke/competitive-programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
