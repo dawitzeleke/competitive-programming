@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dawitzeleke/competitive-programming/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/dawitzeleke/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/dawitzeleke/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/dawitzeleke/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/dawitzeleke/competitive-programming/tree/master/1301-number-of-paths-with-max-score) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawitzeleke/competitive-programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dawitzeleke/competitive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/dawitzeleke/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/dawitzeleke/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/dawitzeleke/competitive-programming/tree/master/2029-stone-game-ix) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dawitzeleke/competitive-programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawitzeleke/competitive-programming/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dawitzeleke/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dawitzeleke/competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dawitzeleke/competitive-programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -669,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/dawitzeleke/competitive-programming/tree/master/1036-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dawitzeleke/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dawitzeleke/competitive-programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dawitzeleke/competitive-programming/tree/master/2685-count-the-number-of-complete-components) |
@@ -915,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/dawitzeleke/competitive-programming/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/dawitzeleke/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dawitzeleke/competitive-programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dawitzeleke/competitive-programming/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dawitzeleke/competitive-programming/tree/master/2685-count-the-number-of-complete-components) |
