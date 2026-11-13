@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawitzeleke/competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/dawitzeleke/competitive-programming/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dawitzeleke/competitive-programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dawitzeleke/competitive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dawitzeleke/competitive-programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dawitzeleke/competitive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dawitzeleke/competitive-programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dawitzeleke/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dawitzeleke/competitive-programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/dawitzeleke/competitive-programming/tree/master/1582-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dawitzeleke/competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dawitzeleke/competitive-programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -781,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dawitzeleke/competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawitzeleke/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -912,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dawitzeleke/competitive-programming/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/dawitzeleke/competitive-programming/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dawitzeleke/competitive-programming/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1004,4 +1010,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dawitzeleke/competitive-programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dawitzeleke/competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
